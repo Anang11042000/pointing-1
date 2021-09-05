@@ -10,7 +10,7 @@ echo "1" > /proc/sys/net/ipv4/ip_forward; wget -O /usr/bin/point 'https://raw.gi
 
 Range 2 - 65335 tapi jangan port yang dah digunakan di AWS itu sendiri.
 
-Contoh memakai port 234 (enter)
+Contoh memakai port 80 (enter)
 
 3. Masukan IP VPS OVH (enter)
 
@@ -19,3 +19,5 @@ Contoh memakai port 234 (enter)
 5. Done , exit
 
 Untuk menjalankan perintah script poiting menggunakan command point
+
+SEMOGA BERJAYA
