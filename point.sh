@@ -10,7 +10,7 @@ echo ""
 echo " ðŸ”¥SCRIPT BY SAMVPNðŸ”¥"
 echo ""
 PS3="$(printf -- "------------------------------------------------------------------")""
-PILIH FEATURE YANG INGIN ANDA GUNAKAN : "
+PILIH FEATURES YANG INGIN ANDA GUNAKAN : "
 printf -- "\n------------------------------------------------------------------\n"
 select opt in "Create" "Cek" "Delete" "Exit" ; do
 
